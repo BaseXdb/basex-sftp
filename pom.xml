@@ -84,6 +84,7 @@
         <configuration>
           <archive>
             <manifest>
+              <mainClass>org.basex.modules.Sftp</mainClass>
               <addDefaultImplementationEntries>true</addDefaultImplementationEntries>
             </manifest>
           </archive>
